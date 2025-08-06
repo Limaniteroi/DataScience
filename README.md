@@ -90,13 +90,13 @@ Cada semana inclui conteúdo, prática, mini projetos e revisão.
 - 🧾 Skill checklist + project publishing (Kaggle, LinkedIn)
 
 
-✨ Contribution & Feedback | Contribuição e Feedback
+###✨ Contribution & Feedback | Contribuição e Feedback
+
 This is a personal study repository, but feel free to fork, suggest improvements, or use it as inspiration for your own learning path!
 
 Este é um repositório pessoal de estudos, mas fique à vontade para fazer fork, sugerir melhorias ou usá-lo como inspiração para sua própria jornada!
 
 
-📬 Contact | Contato
+###📬 Contact | Contato
 [www.linkedin.com/in/marianna-de-brito-lima-b54774264]
-
 [mariannalima@id.uff.br]
